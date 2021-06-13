@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Selenide.*;
 public class HomePage {
 
     private By formAuthenticationLink=By.linkText("Form Authentication");
-    private By dropdownLink=By.linkText("Drag and Drop");
+    private By dropdownLink=By.linkText("Dropdown");
 
 
     public LoginPage clickFormAuthentication(){
